@@ -1,0 +1,20 @@
+Here are the basic instructions you need to follow for the rest of the session.
+1. Do not Cheat by opening Books or using internet. Everything is recorded.
+2. Do not violet the rules and customs.
+3. Be sincere with our systems.
+4. You should have proper, stable and healthy internet connection throughout the session.
+5. You can give this only once.
+
+Read the steps carefully.
+1. When questions come up, you have to read the questions properly. After reading the question when the [*] mark appears You need to type ':soln' and hit the 'Enter' key. You will be prompted to the editor to provide your valuable responses. After finishing your responses you have to press 'CTRL+X' on your keyboard. Then press 'y' and then press 'Enter'. You will be redirected out of the editor then for running you code you have to type ':run' and hit 'Enter' and it will be running.
+
+2. To move to the next question type ':next' and hit 'Enter'.
+
+3. In questions other than writing code, you will provide your valuable response as if you are writing in a text file.
+
+4. To start the viva session, after attempting all the questions (you will be notified when all question gets over), type ':viva' to start the viva session. You will be redirected to google meet for this automatically.
+
+5. After completing the session, You have to type ':submit' to submit all your responses. Now you have to follow the onscreen instruction provided at that time.
+
+6. You may type ':help' to get help with the commands.
+
