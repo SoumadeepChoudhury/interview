@@ -117,7 +117,7 @@ def main():
             print("\n",COLORS.RESET)
         elif userInp==":viva":
             if attempted>=len(questions)-1:
-                webbrowser.open_new(f"https://meet.google.com/{i['meet']}")
+                webbrowser.open_new(f"https://meet.google.com/{meet}")
                 viva=True
             else:
                 print(f"{COLORS.RED}Questions are not over..You need to complete all the questions before starting viva..{COLORS.RESET}")
