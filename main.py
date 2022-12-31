@@ -107,7 +107,7 @@ def main():
                     attempted+=1
                     loading()
             else:
-                print("All questions are over. Run :submit to finnaly submit the responses...")
+                print("All questions are over. Run :viva to attend the viva...")
         elif userInp==":run":
             print("\n",'--'*20,"\nRunning Code...\n",'--'*20,COLORS.BLUE)
             try:
